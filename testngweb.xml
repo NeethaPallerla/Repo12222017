@@ -3,7 +3,7 @@
 <suite parallel="false" name="Suite">
   <test name="Test">
     <classes>
-      <class name="Test3.testngweb"/>
+      <class name="Test2.testngweb"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
